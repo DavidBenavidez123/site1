@@ -1,7 +1,4 @@
-.grid
-{
-    display:grid;    
-}
+
 .box
 {
     background-color: beige;
@@ -22,6 +19,7 @@
   }
   .title{
       font-size: large;
+      padding-bottom: 1px;
   }
   .sonnet p{
       font-style: italic;
